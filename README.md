@@ -48,8 +48,6 @@ The SVM classifier achieved notable accuracy in distinguishing between cats and 
 - **Local Binary Patterns**: A feature extraction technique commonly used in texture analysis.
 - **Support Vector Machine (SVM)**: A powerful classifier for binary classification tasks.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
