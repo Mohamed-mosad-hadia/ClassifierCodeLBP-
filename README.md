@@ -1,8 +1,7 @@
 # ClassifierCodeLBP
 Image Classification using Local Binary Patterns
 
-
-Thanks for the details! Here's a draft of your README file:  
+ 
 
 ---
 
