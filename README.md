@@ -49,6 +49,4 @@ The SVM classifier achieved notable accuracy in distinguishing between cats and 
 - **Support Vector Machine (SVM)**: A powerful classifier for binary classification tasks.
 
 
----
 
-Let me know if you’d like to add or modify anything!
